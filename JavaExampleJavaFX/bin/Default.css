@@ -1,0 +1,9 @@
+.root{
+    -fx-font-size: 16;
+}
+
+#foreground{
+    -fx-font-size: 16;
+    -fx-background-color: rgb(173, 173, 173);
+    -fx-border-color: black;
+}

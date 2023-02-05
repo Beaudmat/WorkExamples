@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(255, 77, 136);
+}
+
+#gridArea{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    text-align:center;
+    margin-top: 90px;
+}
+
+footer{
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    width : 100%;
+    background-color: rgb(168, 29, 76);
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 5px;
+    width : 100%;
+    background-color: rgb(168, 29, 76);
+}
+
+.Mammal{
+    color: rgb(233, 81, 106);
+}
+
+.Bird{
+    color: rgb(94, 94, 204);
+}
+
+.Reptile{
+    color: rgb(184, 184, 64);
+}
+
+.leftPanel{
+    background-color: rgb(168, 29, 76);
+    border: 3px solid black;
+}
+
+.leftPanelAlt{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgb(141, 40, 40);
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#rightPanel{
+    display:block;
+    position: absolute;
+    left: 60%;
+    top: 18%;
+    width: 25%;
+    text-align:Center;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color:rgb(168, 29, 76);
+}
+
+.alter{
+    border-radius: 5px;
+    border: 3px solid black;
+    background-color: grey;
+    font-size: 16px;
+}
+
+
+

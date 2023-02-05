@@ -1,0 +1,15 @@
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\bin\Debug\net6.0\CSharpExample.exe
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\bin\Debug\net6.0\CSharpExample.deps.json
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\bin\Debug\net6.0\CSharpExample.runtimeconfig.json
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\bin\Debug\net6.0\CSharpExample.dll
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\bin\Debug\net6.0\CSharpExample.pdb
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.csproj.AssemblyReference.cache
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.AssemblyInfoInputs.cache
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.AssemblyInfo.cs
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.csproj.CoreCompileInputs.cache
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.dll
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\refint\CSharpExample.dll
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.pdb
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\CSharpExample.genruntimeconfig.cache
+C:\Users\sjmnb\Documents\CSharp\CSharpExample\CSharpExample\obj\Debug\net6.0\ref\CSharpExample.dll

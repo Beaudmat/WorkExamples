@@ -1,0 +1,42 @@
+{
+    "student": {
+        "name": "Matthew Beaudoin",
+        "studentId": "#########",
+        "login": "###",
+        "program": "Computer Programming",
+        "homeCountry": "Canada",
+        "profileImage": "Images/myImage.gif"
+    },
+    "animals": [
+        {
+            "id": 11,
+            "name": "Monkey",
+            "classification": "Mammal"
+        },
+        {
+            "id": 22,
+            "name": "Dog",
+            "classification": "Mammal"
+        },
+        {
+            "id": 33,
+            "name": "Pigeon",
+            "classification": "Bird"
+        },
+        {
+            "id": 44,
+            "name": "Crow",
+            "classification": "Bird"
+        },
+        {
+            "id": 55,
+            "name": "Crocodile",
+            "classification": "Reptile"
+        },
+        {
+            "id": 44,
+            "name": "Cobra",
+            "classification": "Reptile"
+        }
+    ]
+}
